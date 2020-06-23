@@ -1,6 +1,6 @@
 # myocardial-infraction-diagnosis-model
 
-Python program using neural networks to detect myocardial infraction using 59 features/symptomps.
+Python program that uses neural networks to detect myocardial infraction using 59 features/symptomps.
 
 ## Features list:
 
